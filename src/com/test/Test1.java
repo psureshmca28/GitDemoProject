@@ -5,6 +5,7 @@ public class Test1 {
 	public static void main(String[] args) {
 		
 		System.out.println("Suresh Test1 data1");
+		System.out.println("Suresh Test1 data2");
 	}
 
 }
